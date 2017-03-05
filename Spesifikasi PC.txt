@@ -61,3 +61,29 @@
 	MACRO KEYS 22
 	Fully Programmable Keys,
 	SteelSeries Engine 3 Support
+
+09	Camera / Webcam
+	Logitech C525
+	HD video capture: Up to 1280 x 720 pixels
+	Logitech Fluid Crystal™ Technology
+	Autofocus
+	Photos: Up to 8 megapixels (software enhanced)
+	Built-in mic with Logitech RightSound™ technology
+	Hi-Speed USB 2.0 certified (recommended)
+	Universal clip fits laptops, LCD or CRT monitors
+	Pan, tilt, and zoom controls
+	Video and photo capture
+	Face tracking
+	Motion detection
+
+10	Headset
+	MSI DS502 GAMING HEADSET
+	Impedance ≤2.2kΩ
+	Frequency Response 20Hz-20KHz
+	Dimension (mm) Ø6.0 × 3.0mm (Mic)
+	Speaker Sensitivity(S.P.L) 105±3dB @ 1KHz
+	Drivers Ø40mm x 2
+	Speaker Impedance 20Hz-20KHz
+	Mic Sensitivity -36±3dB @ at 1KHz
+	Cable Length 2.0m
+	Directivity Omnidirectional
