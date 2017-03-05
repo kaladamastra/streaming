@@ -1,0 +1,76 @@
+01 	Operating System
+	Microsoft Windows 10 (10.0) Professional 64-bit Build 14393
+	
+02 	Processor
+	Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz x8 ~3601MHz
+	1 CPU - 4 Core - 8 Threads
+	http://ark.intel.com/products/80806/Intel-Core-i7-4790-Processor-8M-Cache-up-to-4_00-GHz
+	
+03 	Video Adapter
+	NVIDIA GeForce GTX 960 (GM206)
+	Micro-Star International Co. Lt
+	GPU VRAM : 2048 MB GDDR5 128 bit
+	GPU APIs : DirectX 12.0 / OpenGL 4.5 / OpenCL 1.2 / Vulkan 1.0
+	https://www.msi.com/Graphics-card/GTX-960-GAMING-2G-LE.html#hero-overview
+	
+04 	Memory
+	a.	Corsair 8192 MB (DDR3-1600) - XMP 1.3 - P/N: CMZ16GX3M2A1600C10
+	b.	Corsair 8192 MB (DDR3-1600) - XMP 1.3 - P/N: CMZ16GX3M2A1600C10
+	Dual Channel (128 bit) DDR3-SDRAM - 800.1 MHz - Ratio 1:6
+	http://www.corsair.com/en-eu/vengeance-16gb-dual-channel-ddr3-memory-kit-cmz16gx3m2a1600c10
+	
+05 	Motherboard
+	MSI - B85-G43 GAMING (MS-7816)
+	Socket 1150 LGA - Intel Haswell rev 06
+	Supports 4th Gen Intel® Core™ / Pentium® / Celeron® processors for LGA 1150 socket
+	Supports DDR3-1600 Memory
+	USB 3.0 + SATA 6Gb/s
+	Audio Boost: Reward Your Ears with True Quality
+	Killer Ethernet: Kill Your Lag
+	Military Class 4: Top Quality & Stability
+	OC Genie 4: Overclock in 1 Second
+	Click BIOS 4: Easily Fine-tune Your System
+	PCI Express Gen 3: World's 1st PCI Express Gen 3 Motherboard Brand
+	Multi-GPU: AMD CrossFire Support
+	Sound Blaster Cinema: Realistic Surround Sound Experience
+	Gaming Device Port: Optimized with Triple Gold-plating for High Polling Rate Gaming Devices
+	Total Fan Control: Optimize All Fan Speed As You Wish
+	https://www.msi.com/Motherboard/B85-G43-GAMING.html#hero-overview
+
+06	Harddisk
+	a.	Western Digital WDC WD20EZRZ-00Z5HB0 Size : 2000 GB
+	b.	ADATA SP900 Size : 256 GB
+
+07	Display
+	a.	Samsung S22F350 (SAM0D1A)
+		21.7 inches (55.1 cm) / 1920 x 1080 pixels @ 50-75 Hz
+	b.	Samsung S22F350 (SAM0D1A)
+		21.7 inches (55.1 cm) / 1920 x 1080 pixels @ 50-75 Hz
+	c.	Samsung S22F350 (SAM0D1A)
+		21.7 inches (55.1 cm) / 1920 x 1080 pixels @ 50-75 Hz
+	d.	LG Electronics ( LG ULTRAWIDE (GSM59F1)
+		34.2 inches (86.9 cm) / 2560 x 1080 pixels @ 56-75 Hz
+
+08	Mouse
+	Steelseries Rival 500
+	SENSOR TYPE Optical
+	CPI & IPS 16000 CPI / 300 IPS
+	BUTTONS 15
+	IDEAL GRIP STYLE Palm / Claw / Fingertip
+	Revolutionized Button Placement, Tactile Alerts,
+	2 RGB Zones
+	https://steelseries.com/gaming-mice/rival-500
+
+09 	Keyboard
+	Steelseries Apex 350
+	SWITCH SteelSeries Membrane Switch
+	ILLUMINATION 5-Zone Prism RGB Illumination
+	ANTI-GHOSTING 20-Key Anti-Ghosting
+	MACRO KEYS 22
+	Fully Programmable Keys,
+	SteelSeries Engine 3 Support
+	https://steelseries.com/gaming-keyboards/apex-350
+
+	
+	
+	http://valid.x86.fr/zt7wv6
